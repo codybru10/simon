@@ -1,0 +1,11 @@
+.card {
+  height: 500px;
+}
+
+#countdown {
+  z-index: 5;
+  position: absolute;
+  top: 200px;
+  text-align: center;
+  font-size: 5em;
+}
